@@ -10,6 +10,18 @@ MainWindow::MainWindow(QWidget *parent) :
     setWindowTitle("hello1");
     setWindowTitle("hello2");
     setWindowTitle("hello3");
+    setWindowTitle("hello");
+    setWindowTitle("hello1");
+    setWindowTitle("hello2");
+    setWindowTitle("hello3");
+    setWindowTitle("hello");
+    setWindowTitle("hello1");
+    setWindowTitle("hello2");
+    setWindowTitle("hello3");
+    setWindowTitle("hello");
+    setWindowTitle("hello1");
+    setWindowTitle("hello2");
+    setWindowTitle("hello3");
 }
 
 MainWindow::~MainWindow()
