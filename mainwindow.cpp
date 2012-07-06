@@ -8,6 +8,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
     setWindowTitle("hello");
     setWindowTitle("hello1");
+    setWindowTitle("hello2");
 }
 
 MainWindow::~MainWindow()
